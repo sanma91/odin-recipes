@@ -1,0 +1,12 @@
+body {
+    background-color: wheat;
+}
+
+img {
+    height: auto;
+    width: 200;
+}
+
+li {
+    font-family: monospace;
+}
